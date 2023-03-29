@@ -4,6 +4,8 @@
 
 The goal of this analysis is to design a deep learning neural network model that will assist Alphabet Soup Charity organization to determine whether or not an applicant organization will receive funding based several criteria such as application type, affiliation, use case, ask amount to name a few. The full list of criteria is listed below:
 
+EIN <br>
+NAME OF THE ORGANIZATION <br>
 APPLICATION TYPE <br>
 AFFILIATION <br>
 CLASSIFICATION <br>
